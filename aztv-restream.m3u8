@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,CODECS="",RESOLUTION=1920x1080
-http://hw2.jemtv.com/app/aztv1/playlist.m3u8
+https://tv.mobyservice.ru/AZTV/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,CODECS="",RESOLUTION=1280x720
-http://hw2.jemtv.com/app/aztv1/playlist.m3u8
+https://tv.mobyservice.ru/AZTV/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=90000,CODECS="",RESOLUTION=854x480
-http://hw2.jemtv.com/app/aztv1/playlist.m3u8
+https://tv.mobyservice.ru/AZTV/index.m3u8
