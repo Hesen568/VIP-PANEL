@@ -2,4 +2,4 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://135.181.115.81:8000/play/a01q/index.m3u8?token=livetv
+http://162.212.179.32/gin-dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8
