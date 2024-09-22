@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,CODECS="",RESOLUTION=1920x1080
-https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/stream/play.m3u8
+http://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/stream.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,CODECS="",RESOLUTION=1280x720
-https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/stream/play.m3u8
+http://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/stream.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=90000,CODECS="",RESOLUTION=854x480
-https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/stream/play.m3u8
+http://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/stream.m3u8
