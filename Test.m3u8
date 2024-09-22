@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,CODECS="",RESOLUTION=1920x1080
-https://edge02.odtv.az/o7/idman/play.m3u8
+https://tv.mobyservice.ru/livetv/index.fmp4.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,CODECS="",RESOLUTION=1280x720
-https://edge02.odtv.az/o7/idman/play.m3u8
+https://tv.mobyservice.ru/livetv/index.fmp4.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=90000,CODECS="",RESOLUTION=854x480
-https://edge02.odtv.az/o7/idman/play.m3u8
+https://tv.mobyservice.ru/livetv/index.fmp4.m3u8
 
