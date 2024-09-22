@@ -1,6 +1,5 @@
 #EXTM3U
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,CODECS="",RESOLUTION=1280x720
-http://mfe02.cliptv.az/dash/Idman_HD111.ism/playlist.mpd
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=90000,CODECS="",RESOLUTION=640x360
-http://mfe02.cliptv.az/dash/Idman_HD111.ism/playlist.mpd
+#EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://tivi191.ozelip.com:3745/stream/play.m3u8
