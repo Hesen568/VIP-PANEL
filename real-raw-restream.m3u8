@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,CODECS="",RESOLUTION=1920x1080
+http://149.255.152.199/real.m3u8?bandwidth=796&e=1727072371&playlistlength=5&shift=0&sid=coder_79&token=be95f4d5b11f2cece9fe8df8490bf56e&user=37076
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,CODECS="",RESOLUTION=1280x720
+http://149.255.152.199/real.m3u8?bandwidth=796&e=1727072371&playlistlength=5&shift=0&sid=coder_79&token=be95f4d5b11f2cece9fe8df8490bf56e&user=37076
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=90000,CODECS="",RESOLUTION=854x480
+http://149.255.152.199/real.m3u8?bandwidth=796&e=1727072371&playlistlength=5&shift=0&sid=coder_79&token=be95f4d5b11f2cece9fe8df8490bf56e&user=37076
