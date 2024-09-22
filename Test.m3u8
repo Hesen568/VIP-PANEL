@@ -1,6 +1,42 @@
-#EXTM3U
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://edge02.odtv.az/o7/idman/index.m3u8
-
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:mspr="urn:microsoft:playready" profiles="urn:mpeg:dash:profile:isoff-live:2011" type="dynamic" availabilityStartTime="1970-01-01T00:00:00.000000Z" publishTime="2024-09-22T14:51:53.000000Z" minimumUpdatePeriod="PT3S" minBufferTime="PT10S" timeShiftBufferDepth="P7DT0H0S">
+<Location>http://mfe02.cliptv.az/dash/Idman_HD111.ism/playlist.mpd</Location><Period id="66f02664cff6f94d8e03953b" start="P19988DT14H14M53.159S">
+<BaseURL>http://mfe02.cliptv.az/dash/Idman_HD111.ism/</BaseURL>
+<AdaptationSet contentType="video">
+<Representation width="1280" height="720" sar="1:1" mimeType="video/mp4" codecs="avc1.420029" id="video/bw1600000" bandwidth="1600000">
+<SegmentTemplate timescale="90000" presentationTimeOffset="155431304384371" startNumber="0" media="video/bw1600000/$Time$.mp4" initialization="video/bw1600000/66f02664cff6f94d8e03953b.mp4">
+<SegmentTimeline>
+<S t="155431497164372" d="540000" r="12"/>
+</SegmentTimeline>
+</SegmentTemplate>
+</Representation>
+<Representation width="640" height="360" sar="1:1" mimeType="video/mp4" codecs="avc1.42001F" id="video/bw2900000" bandwidth="2900000">
+<SegmentTemplate timescale="90000" presentationTimeOffset="155431304384371" startNumber="0" media="video/bw2900000/$Time$.mp4" initialization="video/bw2900000/66f02664cff6f94d8e03953b.mp4">
+<SegmentTimeline>
+<S t="155431497164372" d="540000" r="12"/>
+</SegmentTimeline>
+</SegmentTemplate>
+</Representation>
+</AdaptationSet>
+<AdaptationSet lang="rus" contentType="audio">
+<Representation audioSamplingRate="44100" mimeType="audio/mp4" codecs="mp4a.40.2" id="audio/rus" bandwidth="128000">
+<SegmentTemplate timescale="44100" presentationTimeOffset="76161339148342" startNumber="0" media="audio/rus/$Time$.mp4" initialization="audio/rus/66f02664cff6f94d8e03953b.mp4">
+<SegmentTimeline>
+<S t="76161433610810" d="264192"/>
+<S d="265216"/>
+<S d="264192" r="1"/>
+<S d="265216"/>
+<S d="264192"/>
+<S d="265216"/>
+<S d="264192" r="1"/>
+<S d="265216"/>
+<S d="264192"/>
+<S d="265216"/>
+<S d="264192"/>
+</SegmentTimeline>
+</SegmentTemplate>
+</Representation>
+</AdaptationSet>
+</Period>
+<UTCTiming schemeIdUri="urn:mpeg:dash:utc:direct:2014" value="2024-09-22T14:51:53.994317Z"/>
+</MPD>
