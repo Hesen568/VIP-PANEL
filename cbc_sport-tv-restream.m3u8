@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,CODECS="",RESOLUTION=1920x1080
-http://162.212.179.32/gin-dvrfl05/gin-cbc-sport/tracks-v1a1/mono.m3u8
+https://bozztv.com/dvrfl05/gin-cbc-sport/tracks-v1a1/mono.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,CODECS="",RESOLUTION=1280x720
-http://162.212.179.32/gin-dvrfl05/gin-cbc-sport/tracks-v1a1/mono.m3u8
+https://bozztv.com/dvrfl05/gin-cbc-sport/tracks-v1a1/mono.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=90000,CODECS="",RESOLUTION=854x480
-http://162.212.179.32/gin-dvrfl05/gin-cbc-sport/tracks-v1a1/mono.m3u8
+https://bozztv.com/dvrfl05/gin-cbc-sport/tracks-v1a1/mono.m3u8
