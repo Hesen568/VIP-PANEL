@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://cdn.balelbrus.com/balancer/bigteisti2/08936909/U2VyZ2V5MjAyNHx8TWpBeU5ESXdNalJoZW1VPQ==/index.m3u8
