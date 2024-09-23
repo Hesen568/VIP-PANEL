@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=5400000,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080
+http://mfe.cliptv.az/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,CODECS="mp4a.40.2,avc1.4d401f",RESOLUTION=1280x720
+http://mfe.cliptv.az/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
+#EXT-X-STREAM-INF:BANDWIDTH=1600000,CODECS="mp4a.40.2,avc1.4d401f",RESOLUTION=854x480
+http://mfe.cliptv.az/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,CODECS="mp4a.40.2,avc1.4d401e",RESOLUTION=640x360
+http://mfe.cliptv.az/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
