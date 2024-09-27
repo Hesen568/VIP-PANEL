@@ -2,4 +2,4 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://8.troya.one:34000/ch1532/mono.m3u8?token=lina005.lHQbnat3chvJeNANT1i0MKe80uGJrqiDrc6Ku9S8YnQsWkC4XFboaCzEeJyBTPFw
+https://tv.mobyservice.ru/ARB/tracks-v1a1/mono.m3u8
