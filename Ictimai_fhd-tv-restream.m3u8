@@ -1,9 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,CODECS="",RESOLUTION=1920x1080
-https://str.yodacdn.net/ictimaitv/tracks-v1a1/mono.m3u8?https://str.yodacdn.net/ictimaitv/tracks-v1a1/mono.m3u8?token=a9a403eb1db69d3625379978ecb77c5d5bd501ed-eb01adb1d01c8accf1b5dbebbdf362d3-1727396716-1727385916  
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,CODECS="",RESOLUTION=1280x720
-https://str.yodacdn.net/ictimaitv/tracks-v1a1/mono.m3u8?https://str.yodacdn.net/ictimaitv/tracks-v1a1/mono.m3u8?token=a9a403eb1db69d3625379978ecb77c5d5bd501ed-eb01adb1d01c8accf1b5dbebbdf362d3-1727396716-1727385916  
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=90000,CODECS="",RESOLUTION=854x480
-https://str.yodacdn.net/ictimaitv/tracks-v1a1/mono.m3u8?https://str.yodacdn.net/ictimaitv/tracks-v1a1/mono.m3u8?token=a9a403eb1db69d3625379978ecb77c5d5bd501ed-eb01adb1d01c8accf1b5dbebbdf362d3-1727396716-1727385916
-  
+http://edge02.odtv.az/o1/ictimai/q_1/playlist.m3u8
