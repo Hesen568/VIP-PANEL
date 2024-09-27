@@ -1,8 +1,5 @@
 #EXTM3U
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,CODECS="",RESOLUTION=1920x1080
-https://bozztv.com/dvrfl05/gin-aztvhd/tracks-v1a1/mono.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,CODECS="",RESOLUTION=1280x720
-https://bozztv.com/dvrfl05/gin-aztvhd/tracks-v1a1/mono.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=90000,CODECS="",RESOLUTION=854x480
-https://bozztv.com/dvrfl05/gin-aztvhd/tracks-v1a1/mono.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://hw2.jemtv.com/app/aztv1/chunks.m3u8
