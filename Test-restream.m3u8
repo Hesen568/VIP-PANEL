@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000,CODECS="",RESOLUTION=1024x576
-http://135.181.115.81:8000/play/a02d/index.m3u8?token=livetv
+#EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/Z4B4ZZU4HLTTNAACZX5B3H9Y/2120/index.m3u8
