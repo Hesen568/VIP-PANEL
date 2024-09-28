@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,CODECS="",RESOLUTION=1920x1080
+https://node2-az-baku-delta.sweet.tv/stream/56h79hyvb7yc2tgayme4eyz8gej2nzedi6db9hhfttwgkx5ajt4dq5rf4v5qs68hf6inqify4p84y2nnfkk8emufmkfeehgctthgghabz8ticafbwmsprm2v72higtwaf7hyixrjdu2tu6i4bdxsbtjp28adkcqwmn======.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,CODECS="",RESOLUTION=1280x720
+https://node2-az-baku-delta.sweet.tv/stream/56h79hyvb7yc2tgayme4eyz8gej2nzedi6db9hhfttwgkx5ajt4dq5rf4v5qs68hf6inqify4p84y2nnfkk8emufmkfeehgctthgghabz8ticafbwmsprm2v72higtwaf7hyixrjdu2tu6i4bdxsbtjp28adkcqwmn======.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000,CODECS="",RESOLUTION=1024x576
+https://node2-az-baku-delta.sweet.tv/stream/56h79hyvb7yc2tgayme4eyz8gej2nzedi6db9hhfttwgkx5ajt4dq5rf4v5qs68hf6inqify4p84y2nnfkk8emufmkfeehgctthgghabz8ticafbwmsprm2v72higtwaf7hyixrjdu2tu6i4bdxsbtjp28adkcqwmn======.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=90000,CODECS="",RESOLUTION=854x480
+https://node2-az-baku-delta.sweet.tv/stream/56h79hyvb7yc2tgayme4eyz8gej2nzedi6db9hhfttwgkx5ajt4dq5rf4v5qs68hf6inqify4p84y2nnfkk8emufmkfeehgctthgghabz8ticafbwmsprm2v72higtwaf7hyixrjdu2tu6i4bdxsbtjp28adkcqwmn======.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=600000,CODECS="",RESOLUTION=640x360
+https://node2-az-baku-delta.sweet.tv/stream/56h79hyvb7yc2tgayme4eyz8gej2nzedi6db9hhfttwgkx5ajt4dq5rf4v5qs68hf6inqify4p84y2nnfkk8emufmkfeehgctthgghabz8ticafbwmsprm2v72higtwaf7hyixrjdu2tu6i4bdxsbtjp28adkcqwmn======.m3u8
