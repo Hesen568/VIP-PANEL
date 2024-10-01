@@ -1,0 +1,2 @@
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",КИНОХИТ
+http://mfe.cliptv.az/dash/Kinohit_SD.ism/playlist.mpd
