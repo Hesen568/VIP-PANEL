@@ -2,5 +2,5 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://gamsgo.cyou:8080/resplice/wdLIS4d9758INyuX/index.m3u8
+http://gamsgo.cyou:8080/resplice/wdLIS4d9758INyuX/playlist.m3u8
 
