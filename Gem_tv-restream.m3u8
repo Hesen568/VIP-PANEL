@@ -2,6 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://103.161.35.19:80/live/play/UzJkMVVYUndialZaUjFsT1NsZzNiSEl4T1VNNVQyaE1TRXhsV1VKUGFpOUNRa3hxWldWd1RtSldWVDA9/801838
+http://optimus-tv.org:8080/portal.php?type=stb&action=log&real_action=play&param=[object%20Object]&content_id=0&tmp_type=1&id=801838&cmd=ffmpeg%20http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AF:37:93&stream=801838&extension=ts&play_token=VE3XQ0zKIG&JsHttpRequest=1-xml
 
 
