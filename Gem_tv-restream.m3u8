@@ -2,5 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://hls.Pmchd.live/hls/stream.m3u8
+http://103.161.35.19:80/live/play/UzJkMVVYUndialZaUjFsT1NsZzNiSEl4T1VNNVQyaE1TRXhsV1VKUGFpOUNRa3hxWldWd1RtSldWVDA9/801838
+
 
