@@ -2,7 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist_w2070122608.m3u8
+http://vps-e1780794.vps.ovh.net/1448/tracks-v1a1/mono.m3u8?token=79369BDDF779
 
 
 
