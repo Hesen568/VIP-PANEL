@@ -2,4 +2,5 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://hw2.jemtv.com/app/ict/chunks.m3u8
+http://bigteisti2.cdn.lifeyosso.fun:56374/08936911/mono.m3u8?token=U2VyZ2V5MjAyNHx8TWpBeU5ESXdNalJoZW1VPQ==
+
