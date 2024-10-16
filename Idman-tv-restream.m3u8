@@ -1,8 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,CODECS="",RESOLUTION=1920x1080
-https://bozztv.com/dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,CODECS="",RESOLUTION=1280x720
-https://bozztv.com/dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=90000,CODECS="",RESOLUTION=854x480
-https://bozztv.com/dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://edge02.odtv.az/o7/idman/q_1/playlist.m3u8
