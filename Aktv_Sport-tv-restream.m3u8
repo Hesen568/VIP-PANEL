@@ -2,4 +2,5 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://cdn-ctvsportsspectre.yayin.com.tr/ctvsportsspectre/ctvsportsspectre/chunklist_w1223331234.m3u8
+http://bigteisti3.cdn.lifeyosso.fun:8080/AKILLI_TR/mono.m3u8?token=U2VyZ2V5MjAyNHx8TWpBeU5ESXdNalJoZW1VPQ==
+
