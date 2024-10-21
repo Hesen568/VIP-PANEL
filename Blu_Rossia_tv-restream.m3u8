@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ort-hd" group-title="Russia Yedek",Первый канал HD
-http://ottlinks.club/hls/tk8wmnzjai/29.m3u8
+https://akasiyaduragi.efir.com.tr:3280/stream/play.m3u8
 #EXTINF:0 tvg-id="ort" group-title="Russia Yedek",Первый канал
 http://ottlinks.club/hls/tk8wmnzjai/1.m3u8
 #EXTINF:0 tvg-id="rossiya-hd" group-title="Russia Yedek",Россия 1 HD
