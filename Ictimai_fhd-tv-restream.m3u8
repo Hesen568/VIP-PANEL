@@ -2,6 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://vps-5cbdb618.vps.ovh.net/1445/tracks-v1a1/mono.m3u8?token=65B16463F628
+https://hw2.jemtv.com/app/ict/chunks.m3u8
 
 
