@@ -2,4 +2,4 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://5.188.156.134/RENTV_2/tracks-v1a1/mono.m3u8?token=klimedia.space%3ATm9ta2EyMjpuMTIzNDU2
+http://edge02.odtv.az/o2/rentv/q_1/playlist.m3u8
