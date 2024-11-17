@@ -2,4 +2,4 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://95.142.88.250/udar_hd/tracks-v1a1/mono.m3u8
+https://strm.yandex.ru/kal/udar/ysign1=6881dfc557323f2d50b547f3b4924352d82bce96b78d8aaa92713804afd8a2e9,atrack=audio1_rus,pfx,sfx,ts=6747eda6,unsafe=1,vtrack=169_240p/index-v1-a1.m3u8?vsid=48ch8ijvffxuhry
