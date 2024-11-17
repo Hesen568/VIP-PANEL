@@ -2,4 +2,4 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://cdn.bisv.tv:81/vip_comedy/tracks-v1a1/mono.m3u8?token=5fcec8200f06b125c4081b1b318b2f0c
+http://193.242.190.6:8099/202/tracks-a1/mono.m3u8
