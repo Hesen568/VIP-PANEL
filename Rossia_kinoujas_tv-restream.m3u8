@@ -2,5 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://s5.merlive.am/Kinoujas/tracks-v1a1/mono.m3u8
 http://s5.merlive.am/Kinoujas/tracks-a1/mono.m3u8
-
+http://s5.merlive.am/Kinoujas/tracks-a2/mono.m3u8
