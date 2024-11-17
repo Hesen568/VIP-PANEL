@@ -2,4 +2,4 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://185.23.80.28:8080/Pyatnica/tracks-v1a1/mono.m3u8?token=test
+http://185.23.80.28:8080/Pyatyj/tracks-v1a1/mono.m3u8?token=test
