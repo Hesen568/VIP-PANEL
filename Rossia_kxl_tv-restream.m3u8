@@ -2,4 +2,4 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://109.107.189.180/10469/tracks-v1a1/mono.m3u8?token=30D2318DDBC9
+https://strm.yandex.ru/kal/khl_belarus/ysign1=39148a84c53435d8663e1c6703969a7e325a4d5247e7a24ae31a15e76c478883,atrack=audio1_rus,pfx,redid=1,sfx,ts=6746e8bb,unsafe=1,vtrack=169_240p/index-v1-a1.m3u8?vsid=uckstlfvlpuz4fj
