@@ -2,4 +2,4 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://tv.movielab.pro/250/tracks-v1a1/mono.m3u8?token=29fbafb69379e2dbaf89e710991f8777456254e6-7ecdbd44102ecce4b59bbb96fc60d1ec-1731873396-1731786996
+http://91.194.191.241:8081/chid172/tracks-v1a1/mono.m3u8
