@@ -2,4 +2,4 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://91.194.191.241:8081/chid53/tracks-v1a1/mono.m3u8
+http://3.recaster.bolshoe.tv/7nvenc/sport2HD/71/fhd/chunks.m3u8?nimblesessionid=101077007&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAyNCA4OjAwOjU1IFBNJmhhc2hfdmFsdWU9MGFlREhaTHE0TGJDTExJWGZtbVFjQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
