@@ -8,3 +8,5 @@ https://fl1004.bozztv.com/ssh101/sirvangold/tracks-v1a1/mono.m3u8
 https://fl1004.bozztv.com/ssh101/sirvangold/tracks-v1a1/mono.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=90000,CODECS="",RESOLUTION=854x480
 https://fl1004.bozztv.com/ssh101/sirvangold/tracks-v1a1/mono.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=600000,CODECS="",RESOLUTION=640x360
+https://fl1004.bozztv.com/ssh101/sirvangold/tracks-v1a1/mono.m3u8
