@@ -2,7 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-rtmp://tv208.radyotelekom.com.tr:2305/sirvantvstream/play
+https://tv208.radyotelekom.com.tr/p/3812/stream/play.m3u8
 
 
 
