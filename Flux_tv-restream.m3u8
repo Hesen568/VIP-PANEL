@@ -2,6 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://livetv.interweb.com.tr:3362/hybrid/play.m3u8
+https://live.yayingold.com.tr/fluxtvaz/tracks-v1a1/mono.m3u8
 
 
