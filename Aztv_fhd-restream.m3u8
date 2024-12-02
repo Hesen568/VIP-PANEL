@@ -2,4 +2,4 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://hw2.jemtv.com/app/aztv1/chunks.m3u8
+https://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8?token=7e38772972ec231ac1bcf20e3e9083df12b41e9b-07af35524c90a90f0cbd359348e5f67c-1732210163-1732199363
