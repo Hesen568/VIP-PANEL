@@ -2,4 +2,4 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://185.229.66.73:8000/AA321W/tracks-v1a1/mono.m3u8?token=59D59BDD5DF2DE7
+http://46.17.41.254:2020/play/idf9a23cd/674f8c9e4bc4270adc79abf8.m3u8?q=d41a27c3e8f49739095fb18ad6a0b0a3
