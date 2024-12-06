@@ -1,6 +1,9 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=6096000
+https://live.yayingold.com.tr/aligoshgartv/tracks-v1a1/mono.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://live.yayingold.com.tr/aligoshgartv/tracks-v1a1/mono.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=796000
 https://live.yayingold.com.tr/aligoshgartv/tracks-v1a1/mono.m3u8
 
