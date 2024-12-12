@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1500000
+#EXT-X-STREAM-INF:BANDWIDTH=2096000
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber_star_tv2/chunklist.m3u8
