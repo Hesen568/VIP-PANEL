@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=128000
-http://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/chunklist_w495968538_b1896000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2096
+http://mag.king-4k.cc/live/A31244D285DD733/vHrBPrteyz/110828.m3u8?play_token=
