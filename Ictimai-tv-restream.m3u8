@@ -2,5 +2,5 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096
-http://50.7.144.122:1935/livetv/ictimaitv.stream/chunklist.m3u8
+https://208.79.153.123/gt-ictimai/tracks-v1a1/mono.m3u8
 
