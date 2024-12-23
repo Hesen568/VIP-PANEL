@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2096
-http://1.1usd.tv:34000/ch1539/mono.m3u8?token=1usdtv_fariz2016.Jp_tWYfuSlHnFVYp0mxJO9SRjm7xkvT-p1hqqMNGGQ06zPIKo7qAu1i97jg-1ACuEy-K0w5V_l9Sx4l7_gswBw.dubldot
+#EXT-X-STREAM-INF:BANDWIDTH=128000
+https://tv.mobyservice.ru/Hazar/tracks-v1a1/mono.m3u8
