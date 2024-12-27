@@ -2,6 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
-https://trn03.tulix.tv/gt-ictimai/tracks-v1a1/mono.m3u8
+http://8.troya.info:34000/ch1535/mono.m3u8?token=lina005.lHQbnat3chvJeNANT1i0MNsu1bx9oR7xaZC3-xLq5x1S83uyvh-1Km6AH5iPOhw6
 
 
