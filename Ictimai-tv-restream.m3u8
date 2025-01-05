@@ -2,5 +2,5 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
-http://leok.online:8080/play/RD79yJknzemOEry7p0bWBEjJA0cb3DyoJMsTVi7OBZc/ts
+http://leok.online:8080/play/RD79yJknzemOEry7p0bWBEjJA0cb3DyoJMsTVi7OBZc/ts.m3u8
 
