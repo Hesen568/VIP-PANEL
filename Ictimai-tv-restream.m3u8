@@ -2,5 +2,5 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
-http://leok.online:8080/play/RD79yJknzemOEry7p0bWBEjJA0cb3DyoJMsTVi7OBZc/ts.m3u8
+http://149.255.152.199/ictimai.m3u8?bandwidth=2096&e=1736193908&playlistlength=5&shift=0&sid=coder_52&token=5fca00e1b464c168d297a164ba42813a&user=37076
 
