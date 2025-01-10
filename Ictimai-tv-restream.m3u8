@@ -2,5 +2,5 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
-http://135.181.115.81:8000/play/a01n/70941810.m3u8
+http://149.255.152.199/ictimai.m3u8?bandwidth=2096&e=1736626001&playlistlength=5&shift=0&sid=coder_52&token=40b3036377b97791ace58d8df300f041&user=37076
 
