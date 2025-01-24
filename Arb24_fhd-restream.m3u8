@@ -2,5 +2,5 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
-http://149.255.152.199/arb24.m3u8?bandwidth=796&e=1737828604&playlistlength=5&shift=0&sid=coder_51&token=4cdd50d90572148e7a73a4a5de9618e9&user=37076
+https://tv.mobyservice.ru/ARB24/tracks-v1a1/mono.m3u8
 
