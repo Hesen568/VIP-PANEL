@@ -2,4 +2,4 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
-https://tv.mobyservice.ru/Space/tracks-v1a1/mono.m3u8
+http://149.255.152.199/space.m3u8?bandwidth=6096&e=1738390244&playlistlength=5&shift=0&sid=coder_75&token=c03ae1bf5899ac2d39bbc4afa5371eea&user=37076
