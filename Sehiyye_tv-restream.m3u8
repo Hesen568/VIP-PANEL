@@ -2,5 +2,5 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://raw.githack.com/UzunMuhalefet/streams/main/myvideo-az/atv-azad.m3u8
+http://149.255.152.199/shtv.m3u8?bandwidth=2096&e=1739383018&playlistlength=5&shift=0&sid=coder_78&token=8b508cca6041d68b8ea9590b6041f00a&user=37076
 
