@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
-https://trn03.tulix.tv/gt-ictimai/tracks-v1a1/mono.m3u8
+http://nizok.com/dima/tv/az/IctimaiTv.m3u8
+
 
 
