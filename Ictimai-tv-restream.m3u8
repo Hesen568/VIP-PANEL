@@ -2,7 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://node19.connect.az:9081/tv/live/chunks.m3u8
+http://ost.ru-tv.site/8228/tracks-v1a1/mono.m3u8?cid=216&did=334068&m=1&rid=345925&token=0ced98a186fc77fcde10547e740d6a10
 
 
 
