@@ -2,6 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://nizok.com/dima/tv/az/Arb2.m3u8
+http://nizok.com/dima/tv/az/Arb2.m3u8|User-agent=ExoPlayer2/2.37
 http://ott.teleport.az:80/server31/hls/arb.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 https://tv.mobyservice.ru/ARB/tracks-v1a1/mono.m3u8
