@@ -1,7 +1,7 @@
 #EXTM3U
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.0,
-http://85.234.100.186/11448/tracks-v1a1/mono.m3u8?token=23BF9E58C622
-#EXT-X-ENDLIST
+#EXT-X-STREAM-INF:BANDWIDTH=209600
+http://8.troya.info:34000/ch1534/mono.m3u8?token=lina005.lHQbnat3chvJeNANT1i0MCDjckGxAOA82nBXxVlEbIz1VNuYu3nHChbyF-6hPuEQ
+https://canlitvulusal.xyz/live/cbcsport/index.m3u8
+http://85.234.100.186/11448/tracks-v1a1/mono.m3u8?token=DC5A4F2014D6
