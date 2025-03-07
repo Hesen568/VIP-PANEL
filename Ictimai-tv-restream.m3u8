@@ -3,7 +3,7 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10.0,
-http://185.129.1.242/ictimaitv/mpegts?token=test
+http://185.129.1.242/ictimaitv/mpegts?token
 #EXT-X-ENDLIST
 
 
