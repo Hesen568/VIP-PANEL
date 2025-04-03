@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
+https://ismaillitv.radyotelekom.com.tr:3202/stream/play.m3u8
 https://a8.radyotelekom.com.tr:3445/hybrid/play.m3u8
 
 
