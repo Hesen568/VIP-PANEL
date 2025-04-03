@@ -3,5 +3,5 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10.0,
-http://85.132.78.122:8050/dashjs/stream/index.mpd
+http://194.42.205.99:8070/test_acct/ohbo1veifa4AhD/58976
 #EXT-X-ENDLIST
