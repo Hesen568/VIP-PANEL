@@ -2,5 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://tv.mobyservice.ru/AZTV/tracks-v1a1/mono.m3u8
 http://2.1usd.tv:34000/ch1531/mono.m3u8?token=1usdtv_kenan2018.uoUoRcB-Vpo5hG8ANcRX6m3GMPBL4Ldlzngr2fmApejBKdCGp19TBF8rvx1SObA4CYvJi9HoWuMFxD8IiRaRgA.dubldot
 http://149.255.154.194:80/aztv/tracks-v1a1/mono.m3u8
