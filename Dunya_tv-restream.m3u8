@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=128000
-http://51.210.110.78/11455/tracks-v1a1/mono.m3u8?token=6B3F7A26DC80
+#EXT-X-STREAM-INF:BANDWIDTH=2883584
+https://tgn.bozztv.com/dvrfl05/gin-dunya/tracks-v1a1/mono.m3u8
