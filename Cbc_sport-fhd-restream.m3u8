@@ -2,7 +2,8 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://rpn3.bozztv.com/dvrfl05/gin-cbcs/tracks-v1a1/mono.m3u8
+http://8.troya.info:34000/ch1534/mono.m3u8?token=lina005.lHQbnat3chvJeNANT1i0MM16a3fYaU4Kd8Clx0zY8gr2uFYMG_hduuu8XYeq-TaE
+http://cors.tundracast.com:2000/http://rpn3.bozztv.com/dvrfl05/gin-cbcs/tracks-v1a1/mono.m3u8
 http://85.234.100.186/11448/tracks-v1a1/mono.m3u8?token=A507B028C418
 https://canlitvulusal.xyz/live/cbcsport/index.m3u8
 
