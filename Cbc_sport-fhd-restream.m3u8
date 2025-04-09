@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=128000
+#EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://8.team.ga:34000/ch1534/mono.m3u8?token=lina005.lHQbnat3chvJeNANT1i0MDNlUpCSnIa9dD2-G0RmrEDA3ZBsvtmld_SzD9DjMY9i
 https://api1.canlitvplayer.com/str.yodacdn.net/cbcsport/mono.m3u8?token=b669133bf18eefd4cc4ffc3ccb8b459a52a4a82b-9a84a3399b519bcd5040c803fb0761c7-1739316639000000-1739305839000
 http://cors.tundracast.com:2000/http://162.212.179.34:80/dvrfl05/gin-cbcs/index.m3u8
 http://85.234.100.186/11448/tracks-v1a1/mono.m3u8?token=A507B028C418
