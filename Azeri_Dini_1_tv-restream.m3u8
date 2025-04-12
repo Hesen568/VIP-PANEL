@@ -2,4 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
-https://ip38.avrupatelekom.com:3150/hybrid/play.m3u8
+https://livectv.radyotelekom.com.tr:3150/hybrid/play.m3u8
+http://m.live.net.sa:1935/live/quran/chunklist_w1553614965.m3u8
+
