@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://rpn3.bozztv.com/dvrfl05/gin-aztvhd/tracks-v1a1/mono.m3u8
-http://51.210.110.78/11438/tracks-v1a1/mono.m3u8?token=CA665548B282
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.0,
+http://185.129.1.242/aztv/mpegts
+#EXT-X-ENDLIST
