@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
+https://a8.radyotelekom.com.tr:3530/hybrid/play.m3u8
 http://195.9.195.3:8080/hls/206513.m3u8
 https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/chunklist_w1228813717_b1896000.m3u8
 http://164.132.23.92:22372/suduragitv/suduragitv/chunklist.m3u
