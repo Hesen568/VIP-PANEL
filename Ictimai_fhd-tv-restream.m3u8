@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
+http://149.255.154.198/ictimaitv/tracks-v1a1/mono.m3u8
 http://51.210.110.78:80/11445/tracks-v1a1/mono.m3u8?token=CA665548B282
 http://194.26.203.25:81/8228/tracks-v1a1/mono.m3u8?cid=216&did=353239&m=1&rid=365117&token=0d234dcbcfae0aad26f7fc0b21d3ea26
 http://cors.tundracast.com:2000/http://trn03.tulix.tv/gt-ictimai/tracks-v1a1/mono.m3u8
