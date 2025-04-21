@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
-http://51.210.110.78/11448/tracks-v1a1/mono.m3u8?token=09E2993CB98A
+http://cze.proxy.zelcore.io/http://51.210.110.78/11448/tracks-v1a1/mono.m3u8?token=09E2993CB98A
 http://driptvs.com:8080/live/King200conxx/355sgdhh/5842.m3u8
 https://api1.canlitvplayer.com/str.yodacdn.net/cbcsport/mono.m3u8?token=b669133bf18eefd4cc4ffc3ccb8b459a52a4a82b-9a84a3399b519bcd5040c803fb0761c7-1739316639000000-1739305839000
 https://canlitvulusal.xyz/live/cbcsport/index.m3u8
