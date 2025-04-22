@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
+https://a8.radyotelekom.com.tr:3761/hybrid/play.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/vipcinema/chunks.m3u8
 
