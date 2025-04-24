@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
+http://11.team.ga/ch1699/mono.m3u8?token=jaki05593682221025.7VjMD5k7P3oSHDvYasd_1NJZegAeIyMVcqh5L3BVwoI525-H7x-7XtsIuXpkwSkt0rHXSmXMZZk5WRr4tQhpZg.dubldot
 https://livectv.radyotelekom.com.tr:3995/stream/play.m3u8
 http://8.team.ga:80/ch1699/mono.m3u8?token=lina005.lHQbnat3chvJeNANT1i0MFXZTvU5Ixp9aB18-Bpe-JE4cOa-oMbd29RGlqqCYf6I
 http://195.9.195.3:8080/hls/181490.m3u8
