@@ -2,7 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://116.202.117.244/trspor/trspor/chunklist.m3u8
+http://116.202.117.244/gzcspor/gzcspor/chunklist.m3u8
 
 
 
