@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
+https://cze.proxy.zelcore.io/http://149.255.154.198:80/ictimaitv/tracks-v1a1/mono.m3u8
 http://109.205.166.68:80/server124/ictimai_tv/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 
