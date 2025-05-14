@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://proxy.canlitvplayer.com/str.yodacdn.net/tmbaz/tracks-v1a1/mono.ts.m3u8?token=d21720c1523f20ba0648658171e22e0bb09f67a5-19c4fe51d0c626e490288d735f170139-1740592614000000-1740581814000
+http://149.255.154.198:80/tmb_az_app/tracks-v1a1/mono.m3u8?token=tmb_app_token_13579
+https://proxy.canlitvplayer.com/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=d21720c1523f20ba0648658171e22e0bb09f67a5-19c4fe51d0c626e490288d735f170139-1740592614000000-1740581814000
