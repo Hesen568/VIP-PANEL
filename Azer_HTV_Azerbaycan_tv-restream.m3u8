@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=48696&token=b598f782a8e7aefc13f5351db633566e&server=v2.catcast.tv
 http://51.38.80.122/10609/tracks-v1a1/mono.m3u8?token=CA665548B282
 
 
