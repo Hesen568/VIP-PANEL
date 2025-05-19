@@ -2,5 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
+http://195.9.195.3:8080/hls/176975.m3u8
 http://51.38.80.122/10845/tracks-v1a1/mono.m3u8?token=DCA7060154D4
 https://a8.radyotelekom.com.tr:3620/hybrid/play.m3u8
