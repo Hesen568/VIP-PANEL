@@ -1,7 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2096000
-https://tv.mobyservice.ru/IdmanTV/tracks-v1a1/mono.m3u8
 http://149.255.154.194/idman/tracks-v1a1/mono.m3u8
 http://109.205.166.68/server124/idman_az/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 http://51.210.110.78/11446/tracks-v1a1/mono.m3u8?token=C79B218BADD6
