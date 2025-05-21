@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
+http://51.210.110.78/11445/tracks-v1a1/mono.m3u8?token=A0FD2D6863A4
 http://cze.proxy.zelcore.io/http://149.255.154.198:80/ictimaitv/tracks-v1a1/mono.m3u8
