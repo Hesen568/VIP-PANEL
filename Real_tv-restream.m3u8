@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
+http://51.77.58.55:80/11434/tracks-v1a1/mono.m3u8?token=A0FD2D6863A4
 http://51.77.58.55/11434/tracks-v1a1/mono.m3u8?token=1EF67D71E027
 https://tv.mobyservice.ru/Real/tracks-v1a1/mono.m3u8
