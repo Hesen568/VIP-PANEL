@@ -2,4 +2,5 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://195.49.206.244:90/TV_3/mono.m3u8?token=video
 http://162.19.205.146/00078/tracks-v1a1/mono.m3u8?token=E00A43CA1091
