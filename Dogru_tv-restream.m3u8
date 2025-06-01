@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://cdn1.starcinemax.fun:2095/0100/tracks-v1a1/mono.m3u8?token=137946825
 https://a8.radyotelekom.com.tr:3502/hybrid/play.m3u8
 https://a8.radyotelekom.com.tr:3445/hybrid/play.m3u8
 http://116.202.117.244/erzurumwebtv/erzurumwebtv/chunklist.m3u8
