@@ -2,7 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://cdn1-dizichannelhd.yayin.com.tr/dizichannelhd/dizichannelhd/chunklist_w359162513_b1796000.m3u8
+https://cdn1-dizichannelhd.yayin.com.tr/dizichannelhd/dizichannelhd/chunklist.m3u8
 https://a8.radyotelekom.com.tr:3513/stream/play.m3u8
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 https://cdn-nowplay.yayin.com.tr/nowplay/nowplay/chunklist.m3u8
