@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://germanyqdns.com:8080/live/deozlemeren/BwPHt9Bv/100940.mono.m3u8
 http://germanyqdns.com:8080/live/deozlemeren/BwPHt9Bv/113386.mono.m3u8
 http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10069.mono.m3u8
 http://185.11.145.188:8080/live/live:.cid.d793630db0cd57d6/7yGGmNox9Z/82778.mono.m3u8
