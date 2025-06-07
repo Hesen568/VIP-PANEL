@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=128000
+#EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://195.9.195.3:8080/hls/180509.m3u8
 http://185.11.145.188:8080/live/live:.cid.d793630db0cd57d6/7yGGmNox9Z/107126.mono.m3u8
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/chunklist.m3u8
 
