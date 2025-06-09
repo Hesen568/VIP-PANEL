@@ -2,6 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://driptvs.com:8080/live/King200conxx/355sgdhh/78049.mono.m3u8
+https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8_output_0.m3u8?session=RXceWHW8FibQ4Xh9ihqMaK
 https://str.yodacdn.net/tmb_az_app/tracks-v1a1/mono.m3u8?token=tmb_app_token_13579
 https://proxy.canlitvplayer.com/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=d21720c1523f20ba0648658171e22e0bb09f67a5-19c4fe51d0c626e490288d735f170139-1740592614000000-1740581814000
