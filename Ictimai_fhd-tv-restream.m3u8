@@ -2,7 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://tv.mobyservice.ru/Ictimai/tracks-v1a1/mono.m3u8
-http://cors.tundracast.com:2000/http://trn03.tulix.tv/gt-ictimai/tracks-v1a1/mono.m3u8
+https://str.yodacdn.net/ictimai/tracks-v1a1/mono.m3u8?token=eebd661aaff4df4eef9909b6ad62ca2be01f3878-12f84fa90c13e60b29efdf77f557b159-1749515788-1749504988
 
 
