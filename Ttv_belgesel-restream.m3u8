@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=128000
+#EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 https://a8.radyotelekom.com.tr:3427/stream/play.m3u8
 http://54.37.138.30/10112/tracks-v1a1/mono.m3u8?token=A507B028C418
