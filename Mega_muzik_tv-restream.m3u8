@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://hls.goodgame.ru/hls/215959.m3u8
 https://a8.radyotelekom.com.tr:3720/stream/play.m3u8
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/chunklist.m3u8
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
