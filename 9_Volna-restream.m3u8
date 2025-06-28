@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://stream13.itv.uz/t/5pEum6bpv-tFVJ1MqRBopw/e/1751093813/4001/tracks-v2a1/mono.m3u8
 https://tv.a21network.ru/content/40650/index.m3u8
 http://195.9.195.3:8080/hls/180509.m3u8
 http://cdn2.starcinemax.fun:2095/0900/tracks-v1a1/mono.m3u8?token=137946825
