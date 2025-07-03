@@ -2,5 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://88.99.64.228/Space/tracks-v1a1/mono.m3u8
 https://proxy.canlitvplayer.com/str.yodacdn.net/space/mono.m3u8?token=7bf28ce7b1b34ec95b724f42ea991a98dca6f36c-de2e4a82c2ca7cb0e9ca6e9f8a70b5cd-1746827206000000-1746816406000
 https://api1.canlitvplayer.com/str.yodacdn.net/space/tracks-v1a1/mono.m3u8?token=d21720c1523f20ba0648658171e22e0bb09f67a5-19c4fe51d0c626e490288d735f170139-1740592614000000-1740581814000
