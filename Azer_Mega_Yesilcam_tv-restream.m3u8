@@ -2,7 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://104.21.80.218:8080/live/krst1925/krs.1925/23579.mono.m3u8
+https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 http://164.132.23.92:22372/suduragitv/suduragitv/chunklist.m3u8
 http://germanyqdns.com:8080/live/deozlemeren/BwPHt9Bv/100940.mono.m3u8
 http://germanyqdns.com:8080/live/deozlemeren/BwPHt9Bv/113386.mono.m3u8
