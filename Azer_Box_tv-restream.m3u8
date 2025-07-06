@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://s.catcast.tv/content/48076/index.m3u8
 https://fl1003.bozztv.com/ushba-films-o/tracks-v1a1/mono.m3u8
 https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 https://132544.edgevideo.ru/streams/132544_806129/132544720/index.m3u8
