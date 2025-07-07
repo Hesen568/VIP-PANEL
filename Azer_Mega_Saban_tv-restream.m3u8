@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://trsat.ddns.us/live/02fshFYDZf/uAmu2eOsDM/182.mono.m3u8
 http://75.119.144.48/SUPERTURK_TV_STREAM/tracks-v1a1/mono.m3u8
 http://rs0811.xyz:8080/live/krst1925/krs.1925/6325.mono.m3u8
 https://v2.catcast.tv/content/48695/index.m3u8
