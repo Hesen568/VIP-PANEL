@@ -2,5 +2,5 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://tv.mobyservice.ru/KTV/tracks-v1a1/mono.m3u8
+https://88.99.64.228/KTV/tracks-v1a1/mono.m3u8
 http://51.210.110.78/11941/tracks-v1a1/mono.m3u8?token=A0FD2D6863A4
