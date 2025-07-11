@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://cors.tundracast.com:2000/http://aybytv.xyz:8080/live/vdt4677/vt00/6325.mono.m3u8
 http://aybytv.xyz:8080/live/vdt4677/vt00/6325.mono.m3u8
 https://tv1.arectv30.sbs/live/mvturk.m3u8
 http://trsat.ddns.us/live/02fshFYDZf/uAmu2eOsDM/201.mono.m3u8
