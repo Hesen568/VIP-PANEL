@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2096000
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.0,
 https://nl01.sh365.org/5352/mpegts?token=hNn8trUy7dP9ix
-http://trn03.tulix.tv/gt-medeniyyet/tracks-v1a1/mono.m3u8
-https://str2.yodacdn.net/meden_300_to_small/tracks-v1a1/mono.m3u8
+#EXT-X-ENDLIST
