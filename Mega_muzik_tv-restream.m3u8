@@ -2,7 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://cdn-4musicrussia.yayin.com.tr/4musicrussia/4musicrussia/chunklist.m3u8
 https://fl1004.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8
 https://a8.radyotelekom.com.tr:3720/stream/play.m3u8
 https://hls.goodgame.ru/hls/215959.m3u8
