@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
+https://stream.castr.com/6731d96a1f5e55c4190da53f/live_9e594110a26911ef9f033f53e767ab9f/tracks-v1/index.fmp4.m3u8
+https://cdn900.canlitv.me/agrotv.m3u8?tkn=fFRK2jf2VLgUt54j_DNAVQ&tms=1752766688&hst=www.canlitv.me&ip=158.181.42.244
 https://api1.canlitvplayer.com/str.yodacdn.net/agrotv/mono.m3u8?token=b669133bf18eefd4cc4ffc3ccb8b459a52a4a82b-9a84a3399b519bcd5040c803fb0761c7-1739316639000000-1739305839000
