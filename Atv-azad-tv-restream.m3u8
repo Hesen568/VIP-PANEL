@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
+http://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_720p1500kbps.m3u8
 http://poh1.admuspeh.my/8552/tracks-v1a1/mono.ts.m3u8?cid=387&did=79669&m=1&rid=81272&token=e04c5eb8c7120314d57cee578114bc1e
 https://proxy.canlitvplayer.com/str.yodacdn.net/atv/tracks-v1a1/mono.m3u8?token=d21720c1523f20ba0648658171e22e0bb09f67a5-19c4fe51d0c626e490288d735f170139-1740592614000000-1740581814000
 https://api1.canlitvplayer.com/str.yodacdn.net/atv/tracks-v1a1/mono.m3u8?token=d21720c1523f20ba0648658171e22e0bb09f67a5-19c4fe51d0c626e490288d735f170139-1740592614000000-1740581814000
