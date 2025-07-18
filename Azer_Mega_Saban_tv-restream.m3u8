@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://ip100.radyotelekomtv.com:3303/stream/play.m3u8
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/chunklist.m3u8
 https://tv1.arectv30.sbs/live/mvturk.m3u8
 http://trsat.ddns.us/live/02fshFYDZf/uAmu2eOsDM/201.mono.m3u8
