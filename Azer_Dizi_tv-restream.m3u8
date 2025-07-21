@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://vip.sehzade5.com:2095/live/gnl1638/gnl.888/85735.mono.m3u8
 http://194.26.203.25:81/8667/tracks-v1a1a2/mono.m3u8?cid=317&did=393927&m=1&rid=405916&token=b5415179c892ff21bba1d51a4b5d4ead
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 https://cdn1-dizichannelhd.yayin.com.tr/dizichannelhd/dizichannelhd/chunklist_w1711274869_b1796000.m3u8
