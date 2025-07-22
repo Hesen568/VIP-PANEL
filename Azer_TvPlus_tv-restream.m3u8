@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 https://tv1.arectv30.sbs/live/sinemaaksiyon2.m3u8
 https://fl1003.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
 https://v2.catcast.tv/content/47781/index.m3u8
