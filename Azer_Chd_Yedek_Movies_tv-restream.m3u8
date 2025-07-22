@@ -1,5 +1,18 @@
 #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.0,
+http://timeshift.arpinet.am/237/mpegts
+#EXT-X-ENDLIST
+
+
+
+#EXTM3U
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=128000
-http://195.9.195.3:8080/hls/163253.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/chunks.m3u8
+https://fl1003.bozztv.com/ushba64/tracks-v1a1/mono.m3u8
+https://tv1.arectv30.sbs/live/sinemaaksiyon2.m3u8
+http://195.9.195.3:8080/hls/204722.m3u8
