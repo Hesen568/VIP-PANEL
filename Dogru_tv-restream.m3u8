@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://ip240.radyotelekom.com.tr:3118/stream/play.m3u8
 https://tv1.arectv30.sbs/live/bbc.m3u8
 https://ip100.radyotelekomtv.com:3303/stream/play.m3u8
 http://cdn1.starcinemax.fun:2095/0100/tracks-v1a1/mono.m3u8?token=137946825
