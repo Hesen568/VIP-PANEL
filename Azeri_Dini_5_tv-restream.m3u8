@@ -1,18 +1,8 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.0,
-http://149.62.177.103:8000/play/a01b
-#EXT-X-ENDLIST
-
-
-
-
-#EXTM3U
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
+https://yayin30.haber100.com/live/kudustv/chunklist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar7/chunks.m3u8
 http://m.live.net.sa:1935/live/quran/chunklist.m3u8
 https://a8.radyotelekom.com.tr:3513/stream/play.m3u8
