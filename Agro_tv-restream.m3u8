@@ -1,14 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
-https://rfe-ingest.akamaized.net/hls/live/2033043-b/tvmc05/playlist_0720.m3u8
+http://rfe-ingest.akamaized.net/hls/live/2033043-b/tvmc05/playlist_0720.m3u8
 
-
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.0,
-http://185.234.111.229:8000/play/a011
-#EXT-X-ENDLIST
