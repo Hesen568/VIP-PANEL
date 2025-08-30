@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
-http://194.26.203.25/8553/tracks-v1a1/mono.m3u8?cid=388&did=79669&m=1&rid=81272&token=dc77e78d802359b855e255e53e148e89
+http://194.26.203.25/8553/tracks-v1a1/mono1.m3u8?cid=388&did=79669&m=1&rid=81272&token=dc77e78d802359b855e255e53e148e89
 http://185.93.3.97:8080/srv4/arb_az/tracks-v1a1/mono.m3u8?cid=1004&did=5366158&m=1&rid=24397&token=2022b6576a65c40ede42a7d4941b5471
 https://proxy.canlitvplayer.com/str.yodacdn.net/arb/mono.m3u8?token=7bf28ce7b1b34ec95b724f42ea991a98dca6f36c-de2e4a82c2ca7cb0e9ca6e9f8a70b5cd-1746827206000000-1746816406000
 https://api1.canlitvplayer.com/str.yodacdn.net/arb/mono.m3u8?token=7bf28ce7b1b34ec95b724f42ea991a98dca6f36c-de2e4a82c2ca7cb0e9ca6e9f8a70b5cd-1746827206000000-1746816406000
