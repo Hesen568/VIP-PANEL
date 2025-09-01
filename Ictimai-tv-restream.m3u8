@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
+https://cors-proxy.cooks.fyi/http://trn03.tulix.tv/gt-ictimai/tracks-v1a1/mono.m3u8
 https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
 http://194.26.203.25/8228/tracks-v1a1/mono.m3u8?cid=216&did=79669&m=1&rid=81272&token=dc77e78d802359b855e255e53e148e89
 https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
