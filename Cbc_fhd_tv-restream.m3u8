@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://proxy.canlitvplayer.com/str.yodacdn.net/cbc/tracks-v1a1/mono.m3u8?token=d21720c1523f20ba0648658171e22e0bb09f67a5-19c4fe51d0c626e490288d735f170139-1740592614000000-1740581814000
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
 https://proxy.canlitvplayer.com/str.yodacdn.net/cbc/tracks-v1a1/mono.m3u8?token=d21720c1523f20ba0648658171e22e0bb09f67a5-19c4fe51d0c626e490288d735f170139-1740592614000000-1740581814000
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
