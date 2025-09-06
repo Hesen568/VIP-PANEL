@@ -2,19 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://cdn4.yayin.com.tr/tv36cinema/tracks-v1a1/mono.m3u8
 https://fl1003.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
 https://tv1.arectv30.sbs/live/sinemakomedi.m3u8
 https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
-https://tv1.arectv30.sbs/live/sinemakomedi.m3u8
-https://fl1003.bozztv.com/ushba-films-o/tracks-v1a1/mono.m3u8
-https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
-https://132544.edgevideo.ru/streams/132544_806129/132544720/index.m3u8
-https://tv1.arectv30.sbs/live/sinemakomedi.m3u8
-https://v2.catcast.tv/content/41333/index.m3u8
-https://hls.goodgame.ru/hls/215961.m3u8
-https://ip38.avrupatelekom.com:3433/stream/play.m3u8
-https://v2.catcast.tv/content/47689/index.m3u8
-http://cdn2.starcinemax.fun:2095/0912/tracks-v1a1/mono.m3u8?token=137946825
-http://195.9.195.3:8080/hls/176975.m3u8
-http://51.38.80.122/10845/tracks-v1a1/mono.m3u8?token=DCA7060154D4
-https://a8.radyotelekom.com.tr:3620/hybrid/play.m3u8
