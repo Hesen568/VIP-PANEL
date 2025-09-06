@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://glwizhstb46.glwiz.com/GemAZ_HD/GemAZ_High.m3u8?user=sgls76551&session=86a3a46639639c97a5ce233d4f9587b34be767fe68c9a41aa6ab6409b5ce4c92cf03001232089688&hlsid=HTTP_ID_4&group_id=76551
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/chunklist.m3u8
 http://195.9.195.3:8080/hls/201891.m3u8
 http://driptvs.com:8080/live/King200conxx/355sgdhh/45897.mono.m3u8
