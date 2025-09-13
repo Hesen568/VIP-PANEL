@@ -1,16 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.0,
-http://ch-4k-top.org/play/live.php?mac=00%3A1A%3A79%3A01%3A70%3A82&stream=314931&extension=ts
-#EXT-X-ENDLIST
-
-
-
-
-
-#EXTM3U
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
