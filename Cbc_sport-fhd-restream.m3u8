@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://51.38.80.122/11448/tracks-v1a1/mono.m3u8?token=C472901DA8D8
 http://194.26.203.28/8852/tracks-v1a1/mono.m3u8?cid=215&did=410855&m=1&rid=422822&token=ddfc5611d6a3824f0a15f2168abca681
 http://51.38.80.122/11448/tracks-v1a1/mono.m3u8?token=C472901DA8D8
 http://89.187.169.81:8080/srv1/1_silk_univ_ge/tracks-v1a1/mono.m3u8?cid=991&did=5366158&m=1&rid=24397&token=2022b6576a65c40ede42a7d4941b5471
