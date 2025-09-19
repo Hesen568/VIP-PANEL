@@ -1,8 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
-http://poh2.admuspeh.my/8228/tracks-v1a1/mono.ts.m3u8?cid=216&did=79669&m=1&rid=81272&token=3dae74ae59fe96aff0b318a87d4dfa72
-https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
 http://109.205.166.68/server124/ictimai_tv/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 https://cors-proxy.cooks.fyi/http://trn03.tulix.tv/gt-ictimai/tracks-v1a1/mono.m3u8
 https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
