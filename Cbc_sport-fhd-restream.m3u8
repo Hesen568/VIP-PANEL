@@ -2,11 +2,4 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://194.26.203.28/8852/tracks-v1a1/mono.m3u8?cid=215&did=410855&m=1&rid=422822&token=ddfc5611d6a3824f0a15f2168abca681
-http://51.38.80.122/11448/tracks-v1a1/mono.m3u8?token=C472901DA8D8
-http://89.187.169.81:8080/srv1/1_silk_univ_ge/tracks-v1a1/mono.m3u8?cid=991&did=5366158&m=1&rid=24397&token=2022b6576a65c40ede42a7d4941b5471
-https://proxy.canlitvplayer.com/str.yodacdn.net/cbcsport/tracks-v1a1/mono.m3u8?token=d21720c1523f20ba0648658171e22e0bb09f67a5-19c4fe51d0c626e490288d735f170139-1740592614000000-1740581814000
-http://poh1.admuspeh.my/8852/tracks-v1a1/mono.ts.m3u8?cid=214&did=79669&m=1&rid=81272&token=e04c5eb8c7120314d57cee578114bc1e
-https://proxy.canlitvplayer.com/str.yodacdn.net/cbcsport/tracks-v1a1/mono.m3u8?token=d21720c1523f20ba0648658171e22e0bb09f67a5-19c4fe51d0c626e490288d735f170139-1740592614000000-1740581814000
-https://api1.canlitvplayer.com/str.yodacdn.net/cbcsport/mono.m3u8?token=7bf28ce7b1b34ec95b724f42ea991a98dca6f36c-de2e4a82c2ca7cb0e9ca6e9f8a70b5cd-1746827206000000-1746816406000
-
+https://taptv.ru/channel/YMQC70WBBZ8VNEM51I/2022.m3u8
