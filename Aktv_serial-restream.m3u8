@@ -2,7 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
-https://132544.edgevideo.ru/streams/132544_958787/132544720/index.m3u8
 https://fl1003.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
 https://tv1.arectv30.sbs/live/sinema2.m3u8
 https://fl1003.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
