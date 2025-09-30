@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://208.79.153.42/akamaissh101/ssh101/teber_star2/chunks.m3u8
 https://river-5-549.rtbcdn.ru/stream/genetta-524.ost.rutube.ru/IjI7GMfcFSMZBMW9X-Wzag/1759038556/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
 https://fl1003.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
 https://v2.catcast.tv/content/47609/index.m3u8
