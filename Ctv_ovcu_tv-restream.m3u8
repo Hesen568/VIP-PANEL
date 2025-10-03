@@ -2,7 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
-http://208.79.153.42/akamaissh101/ssh101/CINE7_SAFAR%C4%B0/chunks.m3u8
+https://peers.karamehmet.workers.dev/?ID=http://api.peers.tv/timeshift/zoopark/126/playlist.m3u8
 https://goldvod.org/tv/uyanik?id=96
 http://178.217.72.66/Nat_Geo_Wild_HD/tracks-v1a1/mono.m3u8
 http://141.94.251.52/10763/tracks-v1a1/mono.m3u8?token=C79B218BADD6
