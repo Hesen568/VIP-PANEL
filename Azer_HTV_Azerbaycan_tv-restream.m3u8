@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/chunklist.m3u8
 https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
 https://v2.catcast.tv/content/48076/index.m3u8
 https://cdn4.yayin.com.tr/bakixebertv/tracks-v1a1/mono.m3u8
