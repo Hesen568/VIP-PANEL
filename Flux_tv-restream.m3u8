@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://clvd26.socialsmart.tv:443/muglaturk/bant1/chunks.m3u8
 https://fl1004.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8
 https://cdn4.yayin.com.tr/musicazhit/tracks-v1a1/mono.m3u8
 https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
