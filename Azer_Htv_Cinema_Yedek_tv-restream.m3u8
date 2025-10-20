@@ -2,5 +2,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=128000
+https://cors-proxy.cooks.fyi/https://a8.radyotelekom.com.tr:3761/hybrid/play.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/htvcinema/chunks.m3u8
 
