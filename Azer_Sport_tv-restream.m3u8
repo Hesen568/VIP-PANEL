@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://bs.arectv33.sbs/static/ss11.m3u8
-https://v.arectv30.sbs/static/bs1.m3u8
-https://ciner-live.daioncdn.net/ht-spor/ht-spor_720p.m3u8
-http://95.174.71.114/TR-BEINSPORT1/tracks-v1a1/mono.m3u8
-https://ciner-live.daioncdn.net/ht-spor/ht-spor_720p.m3u8
-https://s0.b4c8d3e9f1a2b7c5d68.cfd/yayinzirve.m3u8|Referer=https://trgoals1191.xyz/
-
-
-
-
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-START:TIME-OFFSET=0,PRECISE=YES
+#EXT-X-STREAM-INF:BANDWIDTH=7000000,AVERAGE-BANDWIDTH=6000000,RESOLUTION=1920x1080,FRAME-RATE=60.000,CODECS="hev1.1.6.L93.B0,mp4a.40.2",AUDIO="audio"
+http://208.79.153.42/giatv/giatv-sxsxfruy85164/sxsxfruy85164/chunks.m3u8
