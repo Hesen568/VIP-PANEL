@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://ua1.online24.pm/434/tracks-v1a1/mono.m3u8?token=A944F9C1B281177
 https://str2.yodacdn.net/cbcsport/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/dvrfl05/gin-cbcs/tracks-v1a1/mono.m3u8
 http://185.93.3.97:8080/srv4/1_silk_univ_ge/tracks-v1a1/mono.m3u8?cid=991&did=5366158&m=1&rid=24397&token=2022b6576a65c40ede42a7d4941b5471
