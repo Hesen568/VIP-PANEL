@@ -1,8 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2096000
-http://de9.seetv.cc/439/tracks-v1a1/mono.m3u8?token=A944F9C1B281177
-http://109.205.166.68/server124/idman_az/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
 https://str2.yodacdn.net/idman/tracks-v1a1/mono.ts.m3u8
 https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
