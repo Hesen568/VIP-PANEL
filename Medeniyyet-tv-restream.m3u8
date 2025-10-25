@@ -1,8 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
-https://str2.yodacdn.net/medeniyyet/tracks-v1a1/mono.ts.m3u8
-http://88.99.64.228/Madaniyyat/tvaz/tracks-v1a1/mono.m3u8
-http://208.79.153.123/gt-medeniyyet/tracks-v1a1/mono.m3u8
-http://str1.yodacdn.net/meden_300_to_small/tracks-v1a1/mono.m3u8
-https://str2.yodacdn.net/meden_300_to_small/tracks-v1a1/mono.m3u8
+http://109.205.166.68/server124/medeniyyet_tv/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
