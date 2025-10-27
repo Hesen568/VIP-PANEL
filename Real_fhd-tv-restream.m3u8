@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://goldvod.org/live/hpgdisco/123456/210.mono.m3u8
-https://str.yodacdn.net/real/tracks-v1a1/mono.m3u8
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.0,
+https://goldvod.org/live/hpgdisco/123456/210.ts
+#EXT-X-ENDLIST
