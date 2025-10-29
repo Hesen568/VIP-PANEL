@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://tv191.radyotelekom.com.tr:3006/stream/play.m3u8
 http://cdn-ctvazerbaycan.yayin.com.tr/ctvazerbaycan/ctvazerbaycan/chunklist.m3u8
 https://a8.radyotelekom.com.tr:3434/stream/play.m3u8
 https://ip38.avrupatelekom.com:3433/stream/play.m3u8
