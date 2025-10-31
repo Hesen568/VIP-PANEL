@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
-http://str2.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8
+https://str2.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8
 http://str.yodacdn.net/tmb_az_app/tracks-v1a1/mono.m3u8?token=tmb_app_token_13579
