@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://146.59.253.52:8080/hindihitshd/tracks-v1a1/mono.m3u8
 https://cdn-arimusic.yayin.com.tr/arimusic/arimusic/chunklist.m3u8
 https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
 https://ip38.avrupatelekom.com:3995/stream/play.m3u8
