@@ -2,6 +2,7 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://box.cinemax6.com:3516/stream/play.m3u8
 https://ip44.radyotelekomtv.com:3886/stream/play.m3u8
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 https://cdn4.yayin.com.tr/ekran85/tracks-v1a1/mono.m3u8
