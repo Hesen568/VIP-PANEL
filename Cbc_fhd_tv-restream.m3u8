@@ -2,4 +2,4 @@
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://goldvod.org/tv/d.php?id=cbcaz&.m3u8
+http://57.129.52.16/8229/tracks-v1a1/mono.m3u8?cid=217&did=433741&m=1&rid=445641&token=436a8ca91ca9fc20ef3c7c3ffc6d20c3
