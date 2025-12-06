@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
-http://cors.tundracast.com:2000/http://goldvod.org/tv/d.php?id=muz_tv_azerbaijan&.m3u8
+http://51.210.110.78/11451/tracks-v1a1/mono.m3u8?token=48A2DA756C44
