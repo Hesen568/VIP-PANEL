@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
-http://cors.tundracast.com:2000/http://goldvod.org/tv/d.php?id=medeniyyet_tv&.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2096000
+https://goldvod.org/tv/d.php?id=medeniyyet_tv&.m3u8
